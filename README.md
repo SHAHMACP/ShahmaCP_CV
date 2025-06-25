@@ -19,7 +19,7 @@ I am **Shahma CP**, a passionate **AI-ML Trainer** with a strong foundation in *
 
 You can download or view the latest version of my CV here:
 
-👉 [**Click to view my CV (PDF)**](./shahma_cp.pdf)
+👉 [**Click to view my CV (PDF)**](https://github.com/SHAHMACP/ShahmaCP_CV/blob/main/shahma%20cp%20(1)-1.pdf)
 
 ## 📬 Contact Me
 
